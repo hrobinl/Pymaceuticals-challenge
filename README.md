@@ -49,8 +49,8 @@ Your summary statistics should include:
 
 2. Using Matplotlib, generate a box plot that shows the distribution of the final tumor volume for all the mice in each treatment group. Highlight any potential outliers in the plot by changing their color and style.
 
-        hint: All four box plots should be within the same figure. Use this Matplotlib documentation pageLinks to an external site. for help with changing the style of the 
-        outliers.
+   hint: All four box plots should be within the same figure. Use this Matplotlib documentation pageLinks to an external site. for help with changing the style of the 
+   outliers.
 
 ## Create a Line Plot and a Scatter Plot
 1. Select a single mouse that was treated with Capomulin, and generate a line plot of tumor volume versus time point for that mouse.
